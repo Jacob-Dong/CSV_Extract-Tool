@@ -7,5 +7,5 @@
     3.After input, just click the Extract button, and the tool will save the information you want to extract in the TXT format file.
   By the way, if you don't have the corresponding python libraries, you can simply run the CSV_Extract.exe, which has the same functionality.
   The following figure shows the operations:
-![](.\pic\show.gif)
+![image](.\pic\show.gif)
 
